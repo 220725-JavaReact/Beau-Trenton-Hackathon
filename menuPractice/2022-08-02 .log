@@ -1,0 +1,5 @@
+[Item [Name=Latte, Price=3.0], Item [Name=Expresso, Price=2.5]]
+[Item [Name=Expresso, Price=2.5], Item [Name=Expresso, Price=2.5]]
+info	[Item [Name=Coffee, Price=2.25], Item [Name=Coffee, Price=2.25], Item [Name=Coffee, Price=2.25]]
+info	[Item [Name=Coffee, Price=2.25]]	2022-08-02
+info	[Item [Name=Coffee, Price=2.25]]	2022-08-02T12:23:57.842959770
